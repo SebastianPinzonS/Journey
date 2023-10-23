@@ -2,7 +2,7 @@
 My journey to tech fluency
 
 ## Web
-First step is to learn the 3 primary components of web devlopment HTML, CSS and JS.
+First step is to learn the 3 primary components of web development HTML, CSS and JS.
 Next are 3 proyects:
 - API Weather recommendations with user info.
 - Porfolio website.
